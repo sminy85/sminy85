@@ -33,14 +33,39 @@ Here are some ideas to get you started:
 </br>
 
 <h3 align="center">👩🏻‍💻 Who am I.. 👩🏻‍💻 </h3>
-<a aling="center" href="https://www.instagram.com/gym_semin?igsh=MTJtejFkdm5kNG9vcw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gym_semin?igsh=MTJtejFkdm5kNG9vcw%3D%3D&utm_source=qr"/></a>&nbsp
 
 <p align="center">👩🏻‍🎓 덕성여자대학교 컴퓨터공학과 학사 졸업</p>
 <p align="center">🖥 오아시스비즈니스 인턴 5개월 - frontend </p>
 <p align="center">🏋🏻‍♀️웨이트랩 헬스장 트레이너 및 부점장 2년 2개월 </p>
 <p align="center">💡kakaotech bootcamp - 생성형AI 교육중 ... </p>
 
+</br>
+
+<h3 align="center">🏆 AWARDS - Body-building 🏆 </h3>
+
 <p align="center">🏆22 NABBA - bikini top3 </p>
 <p align="center">🏆22 NPC - bikini top2, top4 </p>
 <p align="center">🏆23 NPC - bikini top3 </p>
 <p align="center">🏆23 WNGP - bikini top2 </p>
+
+</br>
+
+<h3 align="center">🤓 Certificates of Qualifications 🤓</h3>
+
+<p align="center">정보처리기사</p>
+<p align="center">SQLD</p>
+<p align="center">생활 스포츠 지도사 2급</p>
+
+</br>
+
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="[https://velog.io/@oka1313](https://www.instagram.com/gym_semin?igsh=MTJtejFkdm5kNG9vcw%3D%3D&utm_source=qr)">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:smini857@naver.com">
+    <img
+      src="https://img.shields.io/badge/smini857-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
