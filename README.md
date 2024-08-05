@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 </br>
 
 <h3 align="center">👩🏻‍💻 Who am I.. 👩🏻‍💻 </h3>
+<a aling="center" href="https://www.instagram.com/gym_semin?igsh=MTJtejFkdm5kNG9vcw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gym_semin?igsh=MTJtejFkdm5kNG9vcw%3D%3D&utm_source=qr"/></a>&nbsp
+
 <p align="center">👩🏻‍🎓 덕성여자대학교 컴퓨터공학과 학사 졸업</p>
 <p align="center">🖥 오아시스비즈니스 인턴 5개월 - frontend </p>
 <p align="center">🏋🏻‍♀️웨이트랩 헬스장 트레이너 및 부점장 2년 2개월 </p>
