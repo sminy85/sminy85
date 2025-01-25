@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <p align="center">정보처리기사</p>
 <p align="center">SQLD</p>
 <p align="center">생활 스포츠 지도사 2급</p>
+<p align="center">빅데이터 분석 기사</p>
 
 </br>
 
