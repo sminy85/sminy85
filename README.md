@@ -28,16 +28,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-DB7093?style=for-the-badge&logo=python&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-1daabb.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />&nbsp
 </div>
 
 </br>
 
 <h3 align="center">👩🏻‍💻 Who am I.. 👩🏻‍💻 </h3>
 
+🔭 I’m currently working on ...
+<p align="center">🏢 현대카드 - 금융AI연구소 AIX전략팀</p>
+
 <p align="center">👩🏻‍🎓 덕성여자대학교 컴퓨터공학과 학사 졸업</p>
 <p align="center">🖥 오아시스비즈니스 인턴 5개월 - frontend </p>
-<p align="center">🏋🏻‍♀️웨이트랩 헬스장 1호점 부점장 및 트레이너 2년 2개월 </p>
-<p align="center">💡kakaotech bootcamp - 생성형AI 교육중 ... </p>
+<p align="center">🏋🏻‍♀️ 웨이트랩 헬스장 1호점 부점장 및 트레이너 2년 2개월 </p>
+<p align="center">💡 kakaotech bootcamp - 생성형AI 1000시간 교육 수료 </p>
 
 </br>
 
