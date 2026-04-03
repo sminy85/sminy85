@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align="center">👩🏻‍💻 Who am I.. 👩🏻‍💻 </h3>
 
 <p align="center">🔭 I’m currently working on ...</p>
-<p align="center">🏢 현대카드 - 금융AI연구소 AIX전략팀</p>
+<p align="center">🏢 현대카드 - Product2팀</p>
 </br>
 </br>
 <p align="center">👩🏻‍🎓 덕성여자대학교 컴퓨터공학과 학사 졸업</p>
