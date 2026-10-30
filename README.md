@@ -35,14 +35,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩🏻‍💻 Who am I.. 👩🏻‍💻 </h3>
 
-<p align="center">🔭 I’m currently working on ...</p>
-<p align="center">🏢 현대카드 - Product2팀</p>
 </br>
 </br>
 <p align="center">👩🏻‍🎓 덕성여자대학교 컴퓨터공학과 학사 졸업</p>
 <p align="center">🖥 오아시스비즈니스 인턴 5개월 - frontend </p>
 <p align="center">🏋🏻‍♀️ 웨이트랩 헬스장 1호점 부점장 및 트레이너 2년 2개월 </p>
 <p align="center">💡 kakaotech bootcamp - 생성형AI 1000시간 교육 수료 </p>
+<p align="center">🏢 현대카드 </p>
 
 </br>
 
