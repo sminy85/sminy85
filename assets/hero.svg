@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
+  <title id="t">SEMIN — Lift heavy. Ship clean.</title>
+  <desc id="d">A barbell being loaded under the name SEMIN. Frontend, generative AI, bodybuilding.</desc>
+
+  <defs>
+    <clipPath id="card"><rect width="1200" height="440" rx="28"/></clipPath>
+    <clipPath id="caps"><rect x="540" y="87" width="400" height="156"/></clipPath>
+
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff"/>
+    </pattern>
+    <radialGradient id="fade" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#fff" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotmask"><rect width="1200" height="440" fill="url(#fade)"/></mask>
+    <radialGradient id="glow" cx="50%" cy="100%" r="62%">
+      <stop offset="0" stop-color="#c8ff2e" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#c8ff2e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+
+    .letter { fill: none; stroke: #f4f6f8; stroke-width: 26; stroke-miterlimit: 10;
+              stroke-dasharray: 1; stroke-dashoffset: 0;
+              animation: draw .9s cubic-bezier(.65,0,.2,1) both; }
+    .l1 { animation-delay: .10s } .l2 { animation-delay: .22s } .l3 { animation-delay: .34s }
+    .l4 { animation-delay: .46s } .l5 { animation-delay: .58s }
+
+    .bar { fill: none; stroke: #6e7681; stroke-width: 8; stroke-linecap: round;
+           stroke-dasharray: 1; stroke-dashoffset: 0;
+           animation: draw .7s cubic-bezier(.65,0,.2,1) 1.05s both; }
+
+    .pl { animation: loadL .5s cubic-bezier(.2,1.3,.4,1) both; }
+    .pr { animation: loadR .5s cubic-bezier(.2,1.3,.4,1) both; }
+    .p1 { animation-delay: 1.55s } .p2 { animation-delay: 1.70s }
+    .p3 { animation-delay: 1.85s } .p4 { animation-delay: 2.00s }
+
+    .rise { animation: rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .r1 { animation-delay: 2.25s } .r2 { animation-delay: 2.45s } .r0 { animation-delay: .1s }
+
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+
+    @keyframes draw  { from { stroke-dashoffset: 1 } to { stroke-dashoffset: 0 } }
+    @keyframes loadL { from { opacity: 0; transform: translateX(-80px) } to { opacity: 1; transform: translateX(0) } }
+    @keyframes loadR { from { opacity: 0; transform: translateX(80px) }  to { opacity: 1; transform: translateX(0) } }
+    @keyframes rise  { from { opacity: 0; transform: translateY(10px) }  to { opacity: 1; transform: translateY(0) } }
+    @keyframes pulse { 0%, 100% { opacity: 1 } 50% { opacity: .35 } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .letter, .bar, .pl, .pr, .rise, .pulse { animation: none; }
+    }
+  </style>
+
+  <!-- card -->
+  <g clip-path="url(#card)">
+    <rect width="1200" height="440" fill="#0a0c10"/>
+    <rect width="1200" height="440" fill="url(#dots)" mask="url(#dotmask)"/>
+    <rect width="1200" height="440" fill="url(#glow)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="438.5" rx="27.25" fill="none" stroke="#222831" stroke-width="1.5"/>
+
+  <!-- corner labels -->
+  <g class="mono rise r0" font-size="15" fill="#8b949e">
+    <circle class="pulse" cx="60" cy="47" r="4.5" fill="#c8ff2e"/>
+    <text x="76" y="52" letter-spacing="1">sminy85</text>
+    <text x="1144" y="52" text-anchor="end" letter-spacing="4">CODE × IRON</text>
+  </g>
+
+  <!-- S E M I N -->
+  <path class="letter l1" pathLength="1" d="M389,126 V100 H299 V165 H389 V230 H299 V204"/>
+  <path class="letter l2" pathLength="1" d="M525,100 H441 V230 H525 M441,165 H513"/>
+  <g clip-path="url(#caps)">
+    <path class="letter l3" pathLength="1" d="M577,243 V100 L637,186 L697,100 V243"/>
+    <path class="letter l5" pathLength="1" d="M801,243 V100 L901,230 V87"/>
+  </g>
+  <path class="letter l4" pathLength="1" d="M749,87 V243"/>
+
+  <!-- barbell -->
+  <path class="bar" pathLength="1" d="M600,296 H132"/>
+  <path class="bar" pathLength="1" d="M600,296 H1068"/>
+
+  <g>
+    <rect class="pl p1" x="246" y="240" width="20" height="112" rx="5" fill="#c8ff2e"/>
+    <rect class="pl p2" x="222" y="252" width="16" height="88"  rx="4" fill="#f4f6f8"/>
+    <rect class="pl p3" x="202" y="266" width="12" height="60"  rx="3" fill="#6e7681"/>
+    <rect class="pl p4" x="184" y="282" width="10" height="28"  rx="3" fill="#c8ff2e"/>
+
+    <rect class="pr p1" x="934"  y="240" width="20" height="112" rx="5" fill="#c8ff2e"/>
+    <rect class="pr p2" x="962"  y="252" width="16" height="88"  rx="4" fill="#f4f6f8"/>
+    <rect class="pr p3" x="986"  y="266" width="12" height="60"  rx="3" fill="#6e7681"/>
+    <rect class="pr p4" x="1006" y="282" width="10" height="28"  rx="3" fill="#c8ff2e"/>
+  </g>
+
+  <!-- tagline -->
+  <text class="sans rise r1" x="600" y="358" text-anchor="middle" font-size="31" font-weight="700" letter-spacing="-.3">
+    <tspan fill="#8b949e">Lift heavy. </tspan><tspan fill="#f4f6f8">Ship clean.</tspan>
+  </text>
+  <text class="mono rise r2" x="600" y="404" text-anchor="middle" font-size="13" letter-spacing="4" fill="#6e7681">FRONTEND  ·  GENERATIVE AI  ·  BODYBUILDING</text>
+</svg>
